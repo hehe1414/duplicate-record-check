@@ -1,0 +1,7 @@
+Order_ID,Order_Date,Customer,Product,Quantity,Unit_Price
+1001,2026-01-03,Asha,Notebook,2,50
+1002,2026-01-03,Rahul,Pen,5,10
+1003,2026-01-04,Meera,Bag,1,700
+1004,2026-01-05,Kabir,Bottle,3,120
+1005,2026-01-06,Asha,Notebook,1,50
+1006,2026-01-07,Zoya,Marker,4,25

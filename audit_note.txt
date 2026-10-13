@@ -1,0 +1,9 @@
+Duplicate Record Check — Audit Note
+Input file: sample_retail_sales.csv
+Original rows: 8
+Rows participating in duplicate groups: 4
+Extra duplicate rows removed (keep first): 2
+Rows in cleaned file: 6
+Method: exact full-row matching with pandas duplicated(keep=False)
+Cleaning rule: drop exact duplicate rows while keeping the first occurrence.
+Dataset status: synthetic demo data, not real customer data.

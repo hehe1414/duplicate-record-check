@@ -1,0 +1,5 @@
+Order_ID,Order_Date,Customer,Product,Quantity,Unit_Price
+1002,2026-01-03,Rahul,Pen,5,10
+1003,2026-01-04,Meera,Bag,1,700
+1002,2026-01-03,Rahul,Pen,5,10
+1003,2026-01-04,Meera,Bag,1,700
